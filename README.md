@@ -21,6 +21,7 @@ The development of TaskPro has been an extensive process, involving meticulous p
 - You can mark tasks as completed with a check box to the left of the task.
 - Edit and display your profile information, which includes your name and email.
 
+## Credit
 Based on Code from:
   Title: To-Do-List
   Author: AzimKrishna 
